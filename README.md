@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhur Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="center" width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3Po0Ec7ysbL-_GvGI0r3ek&ust=1715065151576000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjbr6K6-IUDFQAAAAAdAAAAABAE" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurraj11&label=Profile%20views&color=0e75b6&style=flat" alt="madhurraj11" /> </p>
 
 - 🔭 I’m currently working on **React Project**
