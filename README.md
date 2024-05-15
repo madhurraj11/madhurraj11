@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **madhurchauhan1100@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love to play Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
