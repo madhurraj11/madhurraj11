@@ -23,12 +23,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-us/products/synapse-analytics" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Azure-Player/icons-and-symbols/62c61cb39b473bd5a404f2a5983678df9c8c9f55/popular/Azure-Synapse-Analytics.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/databricks.png?raw=true" alt="react" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-us/products/synapse-analytics" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Azure-Player/icons-and-symbols/62c61cb39b473bd5a404f2a5983678df9c8c9f55/popular/Azure-Synapse-Analytics.svg" alt="azure synapse" width="40" height="40"/> </a> 
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/databricks.png?raw=true" alt="databricks" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhurraj11&show_icons=true&locale=en&layout=compact" alt="madhurraj11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurraj11&show_icons=true&locale=en" alt="madhurraj11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhurraj11&" alt="madhurraj11" /></p>
